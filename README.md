@@ -1,8 +1,4 @@
-# 🧑‍💻 Red Social - Prueba Técnica Full Stack
-
-Este proyecto es una red social básica construida como parte de una prueba técnica para el rol de Desarrollador Full Stack. Usa una arquitectura de microservicios basada en Node.js, NestJS, React, Prisma y Docker.
-
----
+#  Red Social - Prueba Técnica Full Stack
 
 ## Características principales
 
